@@ -1,7 +1,7 @@
 # fun-game
-Fun Gamey
+Fun Game
 
-It looks like Mario
+It looks like Mario Bros
 
 But it's different.
 
