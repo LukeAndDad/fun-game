@@ -1,5 +1,5 @@
 # fun-game
-Fun Game
+Fun Gamey
 
 It looks like Mario
 
